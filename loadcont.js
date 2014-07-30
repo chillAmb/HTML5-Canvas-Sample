@@ -1,13 +1,5 @@
-	if (navigator.userAgent.indexOf('MSIE') == -1) {
-		history.pushState("","","skills");
-	}
-	var lastchildAlp = setInterval(function() {
-		if ($('#music').css('opacity') == 1) {
-			clearInterval(lastchildAlp);
-			setScrlBtn();
-		}
-	}, 500);
 	loadCont();
+
 	function loadCont() {
 		var bar;
 		var ctx;
