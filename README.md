@@ -6,6 +6,6 @@ jQueryライブラリーが必要です。
 
 実際に下記サンプルサイトにて動作確認いただけます。
 
-http://ambient.chillout.jp/music/
+http://ambient.chillout.jp/sample/
 こちらのサイトのメニュー「skills」をクリックしてみてください。
 
